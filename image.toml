@@ -1,0 +1,12 @@
+name = "centos9"
+description = "hberaud's CentOS 9 image"
+version = "0.0.1"
+
+[[packages]]
+name = "tmux"
+
+[[packages]]
+name = "vim"
+
+[[packages]]
+name = "htop"
